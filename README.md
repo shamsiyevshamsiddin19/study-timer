@@ -7,7 +7,7 @@
 
 Zamonaviy, o'ta nafis va chalg'itmaydigan (distraction-free) minimalist taymer va diqqatni jamlash (focus & study) veb-platformasi. Foydalanuvchi taqdim etgan dizayn andozasi asosida yaratilgan bo'lib, OLED ekranlar uchun toza qora (`#000000`) fon va o'ta nozik zamonaviy tipografiyadan iborat.
 
----
+----
 
 ## ✨ Asosiy Imkoniyatlari
 
