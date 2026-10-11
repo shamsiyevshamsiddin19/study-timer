@@ -1,5 +1,5 @@
 # ⏱ Zenith Study Timer — Ultra Minimalist Countdown & Focus Studio
- 
+
 <p align="center">
   <b>05 &nbsp;&nbsp; 22 &nbsp;&nbsp; 05 &nbsp;&nbsp; 01</b><br>
   <i>DAYS &nbsp;&nbsp;&nbsp;&nbsp; HOURS &nbsp;&nbsp;&nbsp;&nbsp; MINUTES &nbsp;&nbsp;&nbsp;&nbsp; SECONDS</i>
@@ -7,7 +7,7 @@
 
 Zamonaviy, o'ta nafis va chalg'itmaydigan (distraction-free) minimalist taymer va diqqatni jamlash (focus & study) veb-platformasi. Foydalanuvchi taqdim etgan dizayn andozasi asosida yaratilgan bo'lib, OLED ekranlar uchun toza qora (`#000000`) fon va o'ta nozik zamonaviy tipografiyadan iborat.
 
-----
+---
 
 ## ✨ Asosiy Imkoniyatlari
 
